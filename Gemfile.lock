@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:AlchemyCMS/alchemy_cms.git
-  revision: aadfeda10bc19637cfea06e0c861ac14b4aa48b2
+  revision: 960196ad9a7a911a32a84b1191c6fdfe3b18f018
   specs:
     alchemy_cms (3.5.0.beta)
       active_model_serializers (~> 0.9.0)
@@ -147,7 +147,7 @@ GEM
     orm_adapter (0.5.0)
     polyamorous (1.3.1)
       activerecord (>= 3.0)
-    public_suffix (2.0.3)
+    public_suffix (2.0.4)
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
